@@ -1,1 +1,1 @@
-TinDog Starting Files
+Bootstrap powered responsive TinDog landing page 
